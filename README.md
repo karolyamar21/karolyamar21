@@ -45,6 +45,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Project 1: COVID-19 Global Vaccine Tracker
 
+#### View project: 
+
 
 ![COVID-19 Global Vaccine Tracker](https://github.com/karolyamar21/karolyamar21/assets/137465006/ec1dec76-9956-4a6c-acd7-852c1fea7eef)
 
