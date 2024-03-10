@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 # Data Visiualization
 
-#Tableau Projects
+## Tableau Projects
 
 ![tableau-logo-tableau-software](https://github.com/karolyamar21/karolyamar21/assets/137465006/9d80aaf1-8f0c-4c03-abe7-c3e3942a8e09)
 
