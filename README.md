@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Tools
 
-[![images](https://github.com/karolyamar21/karolyamar21/assets/137465006/bbc2206b-3b42-4cca-b8c5-b707e92999a4)    ](https://public.tableau.com/views/COVID-19GlobalVaccineTracker_17097404892030/COVID-19GlobalVaccineTracker?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[![images](https://github.com/karolyamar21/karolyamar21/assets/137465006/bbc2206b-3b42-4cca-b8c5-b707e92999a4)](https://github.com/karolyamar21/karolyamar21/edit/main/README.md#sql-projects)
 
 ![tableau-logo-tableau-software](https://github.com/karolyamar21/karolyamar21/assets/137465006/2c2a4f91-1db7-4f1e-97b7-7f1d1f868bff)
 
